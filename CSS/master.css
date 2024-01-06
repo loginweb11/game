@@ -19,7 +19,7 @@ body {
     text-align: center;
     width: 100%;
     height: 100vh;
-    background: url(./Pictures/Background.jpg);
+    background: url(../Pictures/Background.jpg);
     background-position: center;
     background-size: cover;
     backdrop-filter: blur(5px);
