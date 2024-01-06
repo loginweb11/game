@@ -19,7 +19,7 @@ body {
     text-align: center;
     width: 100%;
     height: 100vh;
-    background: url(https://scontent.fcai20-6.fna.fbcdn.net/v/t1.15752-9/372839030_1394326168092602_1402313196268303345_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=SOSUvSBFiqYAX-AJKna&_nc_ht=scontent.fcai20-6.fna&oh=03_AdTKNjPkkhWzdjk91l1PydrLlcm_r1tw8INyt3aiLiasUA&oe=658FFF9C);
+    background: url(./Pictures/Background.jpg);
     background-position: center;
     background-size: cover;
     backdrop-filter: blur(5px);
